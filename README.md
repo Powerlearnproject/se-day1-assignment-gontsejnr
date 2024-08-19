@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
--Software engineering systematically applies engineering principles, methods and tools to develop & maintain high-quality software systems. It is important because it helps make life simple by creating applications/systems for, communication, commerce, entertainment and health.
+- Software engineering systematically applies engineering principles, methods and tools to develop & maintain high-quality software systems. It is important because it helps make life simple by creating applications/systems for, communication, commerce, entertainment and health.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
